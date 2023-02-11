@@ -14,7 +14,7 @@ Django = "^4.1.6"
 pytest = "^7.2.1"
 selenium = "^4.8.0"
 pytest-django = "^4.5.2"
-ipython = "^8.9.0"
+ipython = "^8.10.0"
 
 [build-system]
 requires = ["poetry-core"]
